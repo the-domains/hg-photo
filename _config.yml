@@ -1,7 +1,7 @@
 name: hg-photo
 favicon: null
-layout_spectrum: 0.24307
-typography_spectrum: 0.59782
+layout_spectrum: 0.87997
+typography_spectrum: 0.31028
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ececec'
-    - '#2d2d2d'
-    - '#4b4b4b'
-    - '#111111'
-    - '#868686'
-  brandStrength: 0.5
+    - '#76aecd'
+    - '#d2dbe1'
+    - '#316586'
+    - '#151110'
+    - '#ce8951'
+  brandStrength: 0.6875
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
