@@ -1,7 +1,7 @@
 name: hg-photo
 favicon: null
-layout_spectrum: 0.162469346774742
-typography_spectrum: 0.3732269003521651
+layout_spectrum: 0
+typography_spectrum: 0.59782
 cta:
   domain: null
   bucket: null
